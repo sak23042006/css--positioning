@@ -1,0 +1,29 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.every {
+  position: relative;
+  height: 100vh;
+}
+body {
+  margin: 10px;
+  background-image: url('https://png.pngtree.com/background/20210709/original/pngtree-business-background-banner-business-website-picture-image_306168.jpg');
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}
+.icons {
+  padding: 10px 20px 10px 20px;
+  background-color: white;
+  position: absolute;
+  bottom: 5px;
+  display: flex;
+  width: 96vw;
+  justify-content: space-between;
+}
+h1,
+pre {
+  color: white;
+  font-size: 50px;
+  font-weight: 900;
+}
